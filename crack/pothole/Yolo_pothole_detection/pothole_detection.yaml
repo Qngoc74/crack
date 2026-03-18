@@ -1,0 +1,8 @@
+path: C:/Users/ezycloudx-admin/Desktop/YOLO/Data/archive/RDD_SPLIT
+
+train: train/images
+val: val/images
+test: test/images
+
+nc: 5
+names: ['longitudinal crack', 'transverse crack', 'alligator crack', 'other corruption', 'pothole']
